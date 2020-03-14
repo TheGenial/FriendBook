@@ -1,0 +1,10 @@
+.header img{
+    margin-top: 10px;
+    height: 100px;
+    width: 200px;
+    border-radius: 10px;
+}
+.header{
+    text-align: center;
+    background-color: blueviolet;
+}
